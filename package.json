@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/SaTkanFurs/veggie/issues"
   },
-  "homepage": "https://github.com/SaTkanFurs/veggie#readme"
+  "homepage": "https://github.com/SaTkanFurs/veggie#readme",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.0.2"
+  }
 }
