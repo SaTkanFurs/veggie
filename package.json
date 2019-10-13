@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SaTkanFurs/veggie.git"
+    "url": ""
   },
   "author": "Sergey Fursenko",
   "license": "ISC",
@@ -20,6 +20,7 @@
     "bower": "^1.8.8",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
+    "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2"
   }
 }
